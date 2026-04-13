@@ -3,66 +3,66 @@
     {
       "id": "丑妹",
       "name": "丑妹",
-      "avatar": null,
-      "photoCount": 5,
+      "avatar": "images/丑妹/avatar.jpg",
+      "photoCount": 4,
       "videoCount": 2,
-      "totalCount": 7
+      "totalCount": 6
     },
     {
       "id": "亚女",
       "name": "亚女",
-      "avatar": null,
-      "photoCount": 1,
+      "avatar": "images/亚女/avatar.jpg",
+      "photoCount": 0,
       "videoCount": 0,
-      "totalCount": 1
+      "totalCount": 0
     },
     {
       "id": "大合照",
       "name": "大合照",
-      "avatar": null,
-      "photoCount": 1,
+      "avatar": "images/大合照/avatar.jpg",
+      "photoCount": 0,
       "videoCount": 0,
-      "totalCount": 1
+      "totalCount": 0
     },
     {
       "id": "成装",
       "name": "成装",
-      "avatar": null,
-      "photoCount": 1,
+      "avatar": "images/成装/avatar.jpg",
+      "photoCount": 0,
       "videoCount": 0,
-      "totalCount": 1
+      "totalCount": 0
     },
     {
       "id": "文文",
       "name": "文文",
-      "avatar": null,
-      "photoCount": 3,
+      "avatar": "images/文文/avatar.jpg",
+      "photoCount": 2,
       "videoCount": 0,
-      "totalCount": 3
+      "totalCount": 2
     },
     {
       "id": "文祥",
       "name": "文祥",
-      "avatar": null,
-      "photoCount": 7,
+      "avatar": "images/文祥/avatar.jpg",
+      "photoCount": 6,
       "videoCount": 1,
-      "totalCount": 8
+      "totalCount": 7
     },
     {
       "id": "文诺",
       "name": "文诺",
-      "avatar": null,
-      "photoCount": 14,
+      "avatar": "images/文诺/avatar.jpg",
+      "photoCount": 13,
       "videoCount": 2,
-      "totalCount": 16
+      "totalCount": 15
     },
     {
       "id": "斌斌",
       "name": "斌斌",
-      "avatar": null,
-      "photoCount": 2,
+      "avatar": "images/斌斌/avatar.jpg",
+      "photoCount": 1,
       "videoCount": 0,
-      "totalCount": 2
+      "totalCount": 1
     }
   ],
   "galleries": {
@@ -81,14 +81,6 @@
         "sortDate": 1775836800000,
         "dateSource": "filename",
         "src": "images/丑妹/2026-04-11_1.jpg",
-        "type": "image"
-      },
-      {
-        "date": "2026-04-11",
-        "desc": "2",
-        "sortDate": 1775836800000,
-        "dateSource": "filename",
-        "src": "images/丑妹/2026-04-11_2.jpg",
         "type": "image"
       },
       {
@@ -124,45 +116,10 @@
         "type": "image"
       }
     ],
-    "亚女": [
-      {
-        "date": "2026-04-12",
-        "desc": "照片",
-        "sortDate": 1775971462035,
-        "dateSource": "file",
-        "src": "images/亚女/照片.jpg",
-        "type": "image"
-      }
-    ],
-    "大合照": [
-      {
-        "date": "2026-04-13",
-        "desc": "照片",
-        "sortDate": 1776092612447,
-        "dateSource": "file",
-        "src": "images/大合照/照片.jpg",
-        "type": "image"
-      }
-    ],
-    "成装": [
-      {
-        "date": "2026-04-12",
-        "desc": "照片",
-        "sortDate": 1775971461524,
-        "dateSource": "file",
-        "src": "images/成装/照片.jpg",
-        "type": "image"
-      }
-    ],
+    "亚女": [],
+    "大合照": [],
+    "成装": [],
     "文文": [
-      {
-        "date": "2026-04-12",
-        "desc": "照片_1",
-        "sortDate": 1775971461593,
-        "dateSource": "file",
-        "src": "images/文文/照片_1.jpg",
-        "type": "image"
-      },
       {
         "date": "2026-04-12",
         "desc": "照片",
@@ -211,14 +168,6 @@
         "sortDate": 1775971461736,
         "dateSource": "file",
         "src": "images/文祥/照片_2.jpg",
-        "type": "image"
-      },
-      {
-        "date": "2026-04-11",
-        "desc": "美好瞬间",
-        "sortDate": 1775836800000,
-        "dateSource": "filename",
-        "src": "images/文祥/2026-04-11.jpg",
         "type": "image"
       },
       {
@@ -328,14 +277,6 @@
         "type": "image"
       },
       {
-        "date": "2024-08-04",
-        "desc": "1",
-        "sortDate": 1722700800000,
-        "dateSource": "filename",
-        "src": "images/文诺/2024-08-04_1.jpg",
-        "type": "image"
-      },
-      {
         "date": "2023-01-09",
         "desc": "美好瞬间",
         "sortDate": 1673193600000,
@@ -377,14 +318,6 @@
       }
     ],
     "斌斌": [
-      {
-        "date": "2017-06-01",
-        "desc": "美好瞬间",
-        "sortDate": 1496246400000,
-        "dateSource": "filename",
-        "src": "images/斌斌/2017-06-01.jpg",
-        "type": "image"
-      },
       {
         "date": "2017-04-21",
         "desc": "美好瞬间",
