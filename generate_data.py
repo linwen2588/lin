@@ -218,48 +218,47 @@ def get_file_modification_time(filepath: Path) -> tuple:
 def process_media_file(file_path: Path) -> dict:
     """
     处理媒体文件（图片或视频）
-    
+
     Returns:
         dict: 包含媒体信息的字典
     """
     filename = file_path.name
     is_video = is_video_file(filename)
-    
-    # 解析文件名
-    file_info = parse_photo_filename(filename)
-    
+
+    # 解析文件名（已禁用文件名日期解析，只用EXIF拍摄日期）
+    file_info = {
+        'date': None,
+        'desc': Path(filename).stem,
+        'sortDate': None
+    }
+
     # 获取日期优先级：
-    # 1. 文件名中的日期
-    # 2. 图片EXIF拍摄日期
-    # 3. 文件修改时间
-    
-    if file_info['date'] is None:
+    # 1. 图片EXIF拍摄日期
+    # 2. 文件修改时间
+    if is_image_file(filename):
         # 尝试读取EXIF（仅图片）
-        if is_image_file(filename):
-            exif_date, exif_sort = get_exif_date(file_path)
-            if exif_date:
-                file_info['date'] = exif_date
-                file_info['sortDate'] = exif_sort
-                file_info['dateSource'] = 'exif'  # 标记日期来源
-            else:
-                # 使用文件修改时间
-                date_str, sort_date = get_file_modification_time(file_path)
-                file_info['date'] = date_str
-                file_info['sortDate'] = sort_date
-                file_info['dateSource'] = 'file'
+        exif_date, exif_sort = get_exif_date(file_path)
+        if exif_date:
+            file_info['date'] = exif_date
+            file_info['sortDate'] = exif_sort
+            file_info['dateSource'] = 'exif'
         else:
-            # 视频使用文件修改时间
+            # 使用文件修改时间
             date_str, sort_date = get_file_modification_time(file_path)
             file_info['date'] = date_str
             file_info['sortDate'] = sort_date
             file_info['dateSource'] = 'file'
     else:
-        file_info['dateSource'] = 'filename'
-    
+        # 视频使用文件修改时间
+        date_str, sort_date = get_file_modification_time(file_path)
+        file_info['date'] = date_str
+        file_info['sortDate'] = sort_date
+        file_info['dateSource'] = 'file'
+
     # 添加文件路径和类型
     file_info['src'] = str(file_path).replace('\\', '/')
     file_info['type'] = 'video' if is_video else 'image'
-    
+
     return file_info
 
 
