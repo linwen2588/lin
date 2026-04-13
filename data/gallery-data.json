@@ -25,6 +25,14 @@
       "totalCount": 0
     },
     {
+      "id": "成华",
+      "name": "成华",
+      "avatar": "images/成华/avatar.jpg",
+      "photoCount": 0,
+      "videoCount": 0,
+      "totalCount": 0
+    },
+    {
       "id": "成装",
       "name": "成装",
       "avatar": "images/成装/avatar.jpg",
@@ -118,6 +126,7 @@
     ],
     "亚女": [],
     "大合照": [],
+    "成华": [],
     "成装": [],
     "文文": [
       {
