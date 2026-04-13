@@ -1,0 +1,7 @@
+# 大家庭成员记录 - Python 依赖
+
+# 读取照片EXIF数据
+Pillow>=10.0.0
+
+# 文件夹监控（可选，用于 watch.py）
+watchdog>=3.0.0
