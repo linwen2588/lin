@@ -76,51 +76,51 @@
   "galleries": {
     "丑妹": [
       {
+        "date": "2026-04-12",
+        "desc": "2021-04-18",
+        "sortDate": 1775971485132,
+        "dateSource": "file",
+        "src": "images/丑妹/2021-04-18.mp4",
+        "type": "video"
+      },
+      {
+        "date": "2026-04-12",
+        "desc": "2021-12-31",
+        "sortDate": 1775971485026,
+        "dateSource": "file",
+        "src": "images/丑妹/2021-12-31.mp4",
+        "type": "video"
+      },
+      {
+        "date": "2026-04-12",
+        "desc": "2021-04-17",
+        "sortDate": 1775971462674,
+        "dateSource": "file",
+        "src": "images/丑妹/2021-04-17.jpg",
+        "type": "image"
+      },
+      {
+        "date": "2026-04-12",
+        "desc": "2021-05-16",
+        "sortDate": 1775971462624,
+        "dateSource": "file",
+        "src": "images/丑妹/2021-05-16.jpg",
+        "type": "image"
+      },
+      {
         "date": "2026-04-11",
-        "desc": "美好瞬间",
+        "desc": "2026-04-11",
         "sortDate": 1775836800000,
-        "dateSource": "filename",
+        "dateSource": "exif",
         "src": "images/丑妹/2026-04-11.jpg",
         "type": "image"
       },
       {
         "date": "2026-04-11",
-        "desc": "1",
+        "desc": "2026-04-11_1",
         "sortDate": 1775836800000,
-        "dateSource": "filename",
+        "dateSource": "exif",
         "src": "images/丑妹/2026-04-11_1.jpg",
-        "type": "image"
-      },
-      {
-        "date": "2021-12-31",
-        "desc": "美好瞬间",
-        "sortDate": 1640880000000,
-        "dateSource": "filename",
-        "src": "images/丑妹/2021-12-31.mp4",
-        "type": "video"
-      },
-      {
-        "date": "2021-05-16",
-        "desc": "美好瞬间",
-        "sortDate": 1621094400000,
-        "dateSource": "filename",
-        "src": "images/丑妹/2021-05-16.jpg",
-        "type": "image"
-      },
-      {
-        "date": "2021-04-18",
-        "desc": "美好瞬间",
-        "sortDate": 1618675200000,
-        "dateSource": "filename",
-        "src": "images/丑妹/2021-04-18.mp4",
-        "type": "video"
-      },
-      {
-        "date": "2021-04-17",
-        "desc": "美好瞬间",
-        "sortDate": 1618588800000,
-        "dateSource": "filename",
-        "src": "images/丑妹/2021-04-17.jpg",
         "type": "image"
       }
     ],
@@ -139,9 +139,9 @@
       },
       {
         "date": "2026-02-27",
-        "desc": "美好瞬间",
+        "desc": "2026-02-27",
         "sortDate": 1772121600000,
-        "dateSource": "filename",
+        "dateSource": "exif",
         "src": "images/文文/2026-02-27.jpg",
         "type": "image"
       }
@@ -181,25 +181,25 @@
       },
       {
         "date": "2026-04-11",
-        "desc": "1",
+        "desc": "2026-04-11_1",
         "sortDate": 1775836800000,
-        "dateSource": "filename",
+        "dateSource": "exif",
         "src": "images/文祥/2026-04-11_1.jpg",
         "type": "image"
       },
       {
         "date": "2026-04-11",
-        "desc": "2",
+        "desc": "2026-04-11_2",
         "sortDate": 1775836800000,
-        "dateSource": "filename",
+        "dateSource": "exif",
         "src": "images/文祥/2026-04-11_2.jpg",
         "type": "image"
       },
       {
         "date": "2026-04-11",
-        "desc": "3",
+        "desc": "2026-04-11_3",
         "sortDate": 1775836800000,
-        "dateSource": "filename",
+        "dateSource": "exif",
         "src": "images/文祥/2026-04-11_3.jpg",
         "type": "image"
       }
@@ -207,10 +207,50 @@
     "文诺": [
       {
         "date": "2026-04-12",
+        "desc": "2022-10-24",
+        "sortDate": 1775971484720,
+        "dateSource": "file",
+        "src": "images/文诺/2022-10-24.mp4",
+        "type": "video"
+      },
+      {
+        "date": "2026-04-12",
+        "desc": "2023-01-09",
+        "sortDate": 1775971484659,
+        "dateSource": "file",
+        "src": "images/文诺/2023-01-09.mp4",
+        "type": "video"
+      },
+      {
+        "date": "2026-04-12",
         "desc": "照片_1",
         "sortDate": 1775971462308,
         "dateSource": "file",
         "src": "images/文诺/照片_1.jpg",
+        "type": "image"
+      },
+      {
+        "date": "2026-04-12",
+        "desc": "2021-05-16",
+        "sortDate": 1775971462295,
+        "dateSource": "file",
+        "src": "images/文诺/2021-05-16.jpg",
+        "type": "image"
+      },
+      {
+        "date": "2026-04-12",
+        "desc": "2021-12-31",
+        "sortDate": 1775971462271,
+        "dateSource": "file",
+        "src": "images/文诺/2021-12-31.jpg",
+        "type": "image"
+      },
+      {
+        "date": "2026-04-12",
+        "desc": "2021-06-06",
+        "sortDate": 1775971462255,
+        "dateSource": "file",
+        "src": "images/文诺/2021-06-06.jpg",
         "type": "image"
       },
       {
@@ -246,92 +286,52 @@
         "type": "image"
       },
       {
+        "date": "2026-04-12",
+        "desc": "2024-10-18",
+        "sortDate": 1775971462093,
+        "dateSource": "file",
+        "src": "images/文诺/2024-10-18.jpg",
+        "type": "image"
+      },
+      {
         "date": "2025-05-03",
-        "desc": "美好瞬间",
+        "desc": "2025-05-03",
         "sortDate": 1746201600000,
-        "dateSource": "filename",
+        "dateSource": "exif",
         "src": "images/文诺/2025-05-03.jpg",
         "type": "image"
       },
       {
         "date": "2024-10-19",
-        "desc": "美好瞬间",
+        "desc": "2024-10-19",
         "sortDate": 1729267200000,
-        "dateSource": "filename",
+        "dateSource": "exif",
         "src": "images/文诺/2024-10-19.jpg",
         "type": "image"
       },
       {
         "date": "2024-10-19",
-        "desc": "1",
+        "desc": "2024-10-19_1",
         "sortDate": 1729267200000,
-        "dateSource": "filename",
+        "dateSource": "exif",
         "src": "images/文诺/2024-10-19_1.jpg",
         "type": "image"
       },
       {
-        "date": "2024-10-18",
-        "desc": "美好瞬间",
-        "sortDate": 1729180800000,
-        "dateSource": "filename",
-        "src": "images/文诺/2024-10-18.jpg",
-        "type": "image"
-      },
-      {
         "date": "2024-08-04",
-        "desc": "美好瞬间",
+        "desc": "2024-08-04",
         "sortDate": 1722700800000,
-        "dateSource": "filename",
+        "dateSource": "exif",
         "src": "images/文诺/2024-08-04.jpg",
-        "type": "image"
-      },
-      {
-        "date": "2023-01-09",
-        "desc": "美好瞬间",
-        "sortDate": 1673193600000,
-        "dateSource": "filename",
-        "src": "images/文诺/2023-01-09.mp4",
-        "type": "video"
-      },
-      {
-        "date": "2022-10-24",
-        "desc": "美好瞬间",
-        "sortDate": 1666540800000,
-        "dateSource": "filename",
-        "src": "images/文诺/2022-10-24.mp4",
-        "type": "video"
-      },
-      {
-        "date": "2021-12-31",
-        "desc": "美好瞬间",
-        "sortDate": 1640880000000,
-        "dateSource": "filename",
-        "src": "images/文诺/2021-12-31.jpg",
-        "type": "image"
-      },
-      {
-        "date": "2021-06-06",
-        "desc": "美好瞬间",
-        "sortDate": 1622908800000,
-        "dateSource": "filename",
-        "src": "images/文诺/2021-06-06.jpg",
-        "type": "image"
-      },
-      {
-        "date": "2021-05-16",
-        "desc": "美好瞬间",
-        "sortDate": 1621094400000,
-        "dateSource": "filename",
-        "src": "images/文诺/2021-05-16.jpg",
         "type": "image"
       }
     ],
     "斌斌": [
       {
-        "date": "2017-04-21",
-        "desc": "美好瞬间",
-        "sortDate": 1492704000000,
-        "dateSource": "filename",
+        "date": "2026-04-12",
+        "desc": "2017-04-21",
+        "sortDate": 1775971462697,
+        "dateSource": "file",
         "src": "images/斌斌/2017-04-21.jpg",
         "type": "image"
       }
