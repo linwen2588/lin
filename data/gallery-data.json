@@ -12,14 +12,22 @@
       "id": "亚女",
       "name": "亚女",
       "avatar": "images/亚女/avatar.jpg",
-      "photoCount": 0,
+      "photoCount": 1,
       "videoCount": 0,
-      "totalCount": 0
+      "totalCount": 1
     },
     {
       "id": "大合照",
       "name": "大合照",
       "avatar": "images/大合照/avatar.jpg",
+      "photoCount": 0,
+      "videoCount": 0,
+      "totalCount": 0
+    },
+    {
+      "id": "子升",
+      "name": "子升",
+      "avatar": null,
       "photoCount": 0,
       "videoCount": 0,
       "totalCount": 0
@@ -33,12 +41,28 @@
       "totalCount": 0
     },
     {
+      "id": "成爱",
+      "name": "成爱",
+      "avatar": null,
+      "photoCount": 0,
+      "videoCount": 0,
+      "totalCount": 0
+    },
+    {
       "id": "成装",
       "name": "成装",
       "avatar": "images/成装/avatar.jpg",
       "photoCount": 0,
       "videoCount": 0,
       "totalCount": 0
+    },
+    {
+      "id": "文哲",
+      "name": "文哲",
+      "avatar": null,
+      "photoCount": 1,
+      "videoCount": 0,
+      "totalCount": 1
     },
     {
       "id": "文文",
@@ -49,9 +73,9 @@
       "totalCount": 2
     },
     {
-      "id": "文祥",
-      "name": "文祥",
-      "avatar": "images/文祥/avatar.jpg",
+      "id": "文翔",
+      "name": "文翔",
+      "avatar": "images/文翔/avatar.jpg",
       "photoCount": 6,
       "videoCount": 1,
       "totalCount": 7
@@ -61,8 +85,8 @@
       "name": "文诺",
       "avatar": "images/文诺/avatar.jpg",
       "photoCount": 13,
-      "videoCount": 2,
-      "totalCount": 15
+      "videoCount": 3,
+      "totalCount": 16
     },
     {
       "id": "斌斌",
@@ -124,10 +148,31 @@
         "type": "image"
       }
     ],
-    "亚女": [],
+    "亚女": [
+      {
+        "date": "2026-04-14",
+        "desc": "b6dc1a01b6bd8dbc51a99859b04aa6b6",
+        "sortDate": 1776152547133,
+        "dateSource": "file",
+        "src": "images/亚女/b6dc1a01b6bd8dbc51a99859b04aa6b6.jpg",
+        "type": "image"
+      }
+    ],
     "大合照": [],
+    "子升": [],
     "成华": [],
+    "成爱": [],
     "成装": [],
+    "文哲": [
+      {
+        "date": "2026-04-14",
+        "desc": "6993d6a330fece78f2f5f27ed54c6cff",
+        "sortDate": 1776152008252,
+        "dateSource": "file",
+        "src": "images/文哲/6993d6a330fece78f2f5f27ed54c6cff.jpg",
+        "type": "image"
+      }
+    ],
     "文文": [
       {
         "date": "2026-04-12",
@@ -146,13 +191,13 @@
         "type": "image"
       }
     ],
-    "文祥": [
+    "文翔": [
       {
         "date": "2026-04-12",
         "desc": "照片",
         "sortDate": 1775971485124,
         "dateSource": "file",
-        "src": "images/文祥/照片.mp4",
+        "src": "images/文翔/照片.mp4",
         "type": "video"
       },
       {
@@ -160,7 +205,7 @@
         "desc": "照片",
         "sortDate": 1775971461811,
         "dateSource": "file",
-        "src": "images/文祥/照片.jpg",
+        "src": "images/文翔/照片.jpg",
         "type": "image"
       },
       {
@@ -168,7 +213,7 @@
         "desc": "照片_1",
         "sortDate": 1775971461778,
         "dateSource": "file",
-        "src": "images/文祥/照片_1.jpg",
+        "src": "images/文翔/照片_1.jpg",
         "type": "image"
       },
       {
@@ -176,7 +221,7 @@
         "desc": "照片_2",
         "sortDate": 1775971461736,
         "dateSource": "file",
-        "src": "images/文祥/照片_2.jpg",
+        "src": "images/文翔/照片_2.jpg",
         "type": "image"
       },
       {
@@ -184,7 +229,7 @@
         "desc": "2026-04-11_1",
         "sortDate": 1775836800000,
         "dateSource": "exif",
-        "src": "images/文祥/2026-04-11_1.jpg",
+        "src": "images/文翔/2026-04-11_1.jpg",
         "type": "image"
       },
       {
@@ -192,7 +237,7 @@
         "desc": "2026-04-11_2",
         "sortDate": 1775836800000,
         "dateSource": "exif",
-        "src": "images/文祥/2026-04-11_2.jpg",
+        "src": "images/文翔/2026-04-11_2.jpg",
         "type": "image"
       },
       {
@@ -200,11 +245,19 @@
         "desc": "2026-04-11_3",
         "sortDate": 1775836800000,
         "dateSource": "exif",
-        "src": "images/文祥/2026-04-11_3.jpg",
+        "src": "images/文翔/2026-04-11_3.jpg",
         "type": "image"
       }
     ],
     "文诺": [
+      {
+        "date": "2026-04-14",
+        "desc": "64f29f217d3b0389ca2bfca876620de4",
+        "sortDate": 1776152112768,
+        "dateSource": "file",
+        "src": "images/文诺/64f29f217d3b0389ca2bfca876620de4.mp4",
+        "type": "video"
+      },
       {
         "date": "2026-04-12",
         "desc": "2022-10-24",
